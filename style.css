@@ -1,0 +1,168 @@
+body{
+   background-color:lightcyan;
+   padding: 0px;
+   margin: 0px;
+   overflow-x: hidden;
+}
+.header{
+   background-image: url("https://img.freepik.com/premium-vector/cute-cartoon-fantasy-summer-sunny-day-with-curvy-rounded-hills-beatuful-rural-small-house_88272-2626.jpg?w=2000");
+    padding-top: 0;
+}
+
+.icon1{
+   position:relative;
+   left:60px;
+   top:20px;
+   width: 150px;
+   height: 150px;
+}
+.about{
+   position: relative;
+   left:1200px;
+   bottom: 80px;
+   font-size: large;
+   font-weight: bold;
+   font-style: normal;
+   color:black;
+   word-spacing: 30px;
+}
+.a:link{color: navy ;}
+.a:visited{color:blue;}
+.image1{
+   position:relative;
+   left:500px;
+}
+.text1{
+   position: relative;
+   left:600px;
+   bottom:10px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 30px;
+   font-style: normal;
+   font-weight: bold;
+   color: rgb(60, 60, 173);
+}
+.icon2{
+   position:relative;
+   left:600px;
+}
+.text2{
+   position: relative;
+   left:690px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 30px;
+   font-style: normal;
+   font-weight: bolder;
+   color:rgb(5, 5, 161);
+}
+.text3{
+   position: relative;
+   left:500px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 20px;
+   font-style:inherit;
+   font-weight:normal;
+   color:black;  
+}
+.dots1{
+   position: relative;
+   left:660px;
+   font-size: 80px;
+   color:rgb(192, 189, 189);
+}
+.title1{
+   position: relative;
+   left:480px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-style:calc(10);
+   font-size: 80px;
+   font-weight: 700px;
+   color:rgb(3, 3, 106);
+}
+.text4{
+   position: relative;
+   left:550px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 30px;
+   font-style: normal;
+   font-weight: bolder;
+   color:rgb(5, 5, 161);
+}
+.title2{
+   position: relative;
+   left:550px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-style:calc(10);
+   font-size: 80px;
+   font-weight: 700px;
+   color:rgb(3, 3, 106);
+}
+.text5{
+   position: relative;
+   left:450px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 30px;
+   font-style: normal;
+   font-weight: bolder;
+   color:rgb(5, 5, 161);
+}
+.btn{
+   position: relative;
+   left:590px;
+   color:black;
+   font-size: large;
+   text-transform: uppercase;
+   background-color:rgb(17, 100, 72);
+}
+.me{
+   position: relative;
+   bottom: 17px;
+}
+.bg_img2{
+   background-color:rgb(161, 201, 231);
+}
+.last{
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: medium;
+   color:rgb(5, 5, 161);
+   position: relative;
+   left: 640px;
+   word-spacing: 50px;
+}
+.text6{
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: medium;
+   color:rgb(5, 5, 161);
+   position: relative;
+   left: 590px;
+}
+.icon3{
+   position:relative;
+   left:300px;
+}
+.dots2{
+   position: relative;
+   left:550px;
+   bottom:170px;
+   font-size: 40px;
+   color:rgb(192, 189, 189);
+}
+.gif1{
+   position: relative;
+   left:1000px;
+   bottom:360px;
+   font-size: 40px;
+   color:rgb(192, 189, 189);
+}
+.icon4{
+   position: relative;
+   left:1000px;
+   bottom:360px;
+   font-size: 40px;
+   color:rgb(192, 189, 189);
+}
+.gif2{
+   position:relative;
+   left:300px;  
+}
+
